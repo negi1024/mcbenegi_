@@ -1,0 +1,6 @@
+echo "＃mcbenegi_" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git remote add origin https://github.com/negi1024/mcbenegi_.git
+ git push -u origin master
